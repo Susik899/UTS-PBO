@@ -46,7 +46,7 @@ const cutiMelahirkan = new CutiMelahirkan(90);
 cutiMelahirkan.ajukanCuti();
 
 const cutiTahunanLebih = new CutiTahunan(15); 
-cutiTahunanLebih.ajukanCuti();
+cutiTahunan.ajukanCuti();
 
 const cutiSakitLebih = new CutiSakit(3);
-cutiSakitLebih.ajukanCuti();
+cutiSakit.ajukanCuti();
